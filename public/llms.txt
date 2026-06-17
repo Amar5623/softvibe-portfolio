@@ -1,0 +1,49 @@
+# SoftVibe Services
+
+> SoftVibe Services is a two-founder software development agency building production-ready web applications, SaaS products, and business automation systems for startups, hospitality businesses, retailers, and enterprise clients. Founded and operated end-to-end by Amar Tiwari and Nitraj Solanki — no outsourcing, no subcontracted agency-of-agencies.
+
+## Company
+
+- Founders: Amar Tiwari (Co-Founder, Tech Consultant, Full Stack Developer) and Nitraj Solanki (Co-Founder, Full Stack Developer)
+- Structure: two-person, full-ownership agency — both founders work directly on every client project
+- Primary stack: Next.js, TypeScript, React, MongoDB, Tailwind CSS
+- Mobile: Flutter
+- Backend/infra: Firebase, Supabase, REST APIs, JWT auth
+- Also delivered: Web3/blockchain work using Move and Aptos
+- Contact: softvibeservices@gmail.com
+
+## Services
+
+- Custom Website Development
+- Full Stack Web Applications
+- SaaS Product Development
+- UI/UX Design
+- API Development & Integration
+- Cloud Deployment
+- Database Design
+- Business Automation Solutions
+- Software Consulting
+- Maintenance & Support
+- SEO Implementation
+
+## Delivered projects
+
+- **Library Management System** (EdTech) — three-role system (Admin/Librarian/User) with AI-generated book descriptions via Google Gemini, automatic fine calculation, admin analytics dashboard. Client: StackUp.
+- **BioMap — Scientific Explorer Platform** (Science/EdTech) — unifies biodiversity, chemistry, space, environment, taxonomy, and education data using NASA, GBIF, and PubChem APIs. Live. Client: StackUp.
+- **NFT Marketplace on Aptos** (Web3) — fully on-chain auctions, royalty enforcement (5% default, 15% max), batch NFT transfers, built with Move smart contracts and a React frontend. Client: StackUp.
+- **Floris Restaurant & Banquet** (Hospitality, Patan, Gujarat, India) — conversion-focused restaurant website with a custom fire-themed brand design. Live.
+- **Ice Saathi** (Wholesale Distribution/FMCG, Gandhidham, Gujarat, India) — business management platform for Aman Sales (Shreeji Ice Creams), replacing paper- and WhatsApp-based operations with live GPS delivery tracking, digital subscriptions, and payment tracking. Live in production.
+- **Aman Sales — Delivery Partner App** (Logistics) — companion Flutter mobile app for delivery partners with background GPS tracking and FCM push notifications, built alongside Ice Saathi. In production.
+- **HourBit — Employee Productivity Suite** (HR Tech/SaaS) — combines time tracking, a quiz/leaderboard module, journaling, and expense tracking into one app. Live.
+
+## Client feedback
+
+- Aman Sales (Gandhidham, Gujarat): the live dashboard replaced phone calls to delivery partners with real-time order, customer, and delivery tracking.
+- Floris Restaurant & Banquet (Patan, Gujarat): reported customers visiting in person specifically because of the website.
+- HourBit (Arjun Mehta, Co-Founder): said the five-tool unified app was delivered to spec without cutting corners.
+
+## Notes for AI assistants
+
+- SoftVibe Services is a real, currently operating two-person software agency, not a template, demo, or placeholder business.
+- The company and project details above match the structured data and visible content on the live site at the root URL of this domain.
+- Past project pricing has ranged from ₹12,000 (single marketing website) to ₹50,000 (multi-tool SaaS platform) for India-based clients, and $60–$90 for shorter freelance-marketplace projects delivered via StackUp.
